@@ -13,3 +13,11 @@ body{
   width: 50%;
 }
 
+#pcid{
+  display: inline-block;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
